@@ -47,6 +47,11 @@ http://www.elitehomepage.org/text/index.htm
 **Golden Age of AI**
 
 
+Klein, Sheldon et al. (1973). Automatic novel writing: A status report. Technical Report 186, Computer Science Department, The University of Wisconsin, Madison.
+
+[Automatic novel writing](https://minds.wisconsin.edu/handle/1793/57816)
+
+
 "Tale-Spin, an interactive program that writes stories." In Proceedings of the Fifth International Joint Conference on Artificial Intelligence, MIT, Cambridge, MA, August 22–25. Los Altos: Kaufmann, 91–98.
 
 [Tale-Spin](./papers/story/013.pdf)
