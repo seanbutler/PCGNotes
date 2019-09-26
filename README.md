@@ -28,13 +28,27 @@ Level 6 (Final Year Undergraduate or Taught Masters)
 
 ## Galaxy Generation
 
-**Very Early '70s**
+**Very Early 1977**
+
+First published in 1977 this is the first example of galaxy generation for entertainment I can find.
 
 [Traveller Adventure](http://wiki.travellerrpg.com/Classic_Traveller)
 
-**Old Skool '84**
-http://www.elitehomepage.org/text/index.htm
-[text elite source code in c](./assets/b9101315.zip)
+These pages are scanned from the 1984 edition
+
+ - [Rules Page 42-43](./assets/papers/Traveller_2890_001.pdf)
+ - [Rules Page 44-45](./assets/papers/Traveller_2891_001.pdf)
+ - [Rules Page 46-47](./assets/papers/Traveller_2892_001.pdf)
+ - [Tables Page 42](./assets/papers/Traveller_2893_001.pdf)
+ - [Tables Page 16-17](./assets/papers/Traveller_2894_001.pdf)
+ - [Tables Inside Back Cover](./assets/papers/Traveller_2895_001.pdf)
+
+**8 bit Era 1984**
+
+Because of their use of other signs including Commander Jamison, Elite was clearly inspired by the Traveller Adventure
+
+ - http://www.elitehomepage.org/text/index.htm
+ - [text elite source code in c](./assets/b9101315.zip)
 
 
 ## Narrative generation
