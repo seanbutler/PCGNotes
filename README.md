@@ -1,6 +1,7 @@
 # Introduction to Procedural Content Generation
 
-Level 6 (Final Year Undergraduate or Taught Masters)
+Final Year Undergraduate
+
 
 # Papers
 
@@ -24,6 +25,8 @@ Level 6 (Final Year Undergraduate or Taught Masters)
 ## Artifical Life & Evolution
 
 [An Animated Introduction to Evolution](https://www.youtube.com/playlist?list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB)
+
+
 
 
 ## Galaxy Generation
@@ -51,6 +54,8 @@ Because of their use of other signs including Commander Jamison, Elite was clear
  - [text elite source code in c](./assets/b9101315.zip)
 
 
+
+
 ## Narrative generation
 
 **Ancient History**
@@ -59,7 +64,6 @@ Because of their use of other signs including Commander Jamison, Elite was clear
 
 
 **Golden Age of AI**
-
 
 Klein, Sheldon et al. (1973). Automatic novel writing: A status report. Technical Report 186, Computer Science Department, The University of Wisconsin, Madison.
 
@@ -73,7 +77,3 @@ Klein, Sheldon et al. (1973). Automatic novel writing: A status report. Technica
 
 Meehan, James (1981) TALE-SPIN
 [TALE-SPIN in LISP](https://news.ycombinator.com/item?id=9947986)
-
-
-
-Klein, Sheldon et al. (1973). Automatic novel writing: A status report. Technical Report 186, Computer Science Department, The University of Wisconsin, Madison.
