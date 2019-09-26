@@ -36,12 +36,12 @@ First published in 1977 this is the first example of galaxy generation for enter
 
 These pages are scanned from the 1984 edition
 
- - [Rules Page 42-43](./assets/papers/Traveller_2890_001.pdf)
- - [Rules Page 44-45](./assets/papers/Traveller_2891_001.pdf)
- - [Rules Page 46-47](./assets/papers/Traveller_2892_001.pdf)
- - [Tables Page 42](./assets/papers/Traveller_2893_001.pdf)
- - [Tables Page 16-17](./assets/papers/Traveller_2894_001.pdf)
- - [Tables Inside Back Cover](./assets/papers/Traveller_2895_001.pdf)
+ - [Rules Page 42-43](./papers/Traveller_2890_001.pdf)
+ - [Rules Page 44-45](./papers/Traveller_2891_001.pdf)
+ - [Rules Page 46-47](./papers/Traveller_2892_001.pdf)
+ - [Tables Page 42](./papers/Traveller_2893_001.pdf)
+ - [Tables Page 16-17](./papers/Traveller_2894_001.pdf)
+ - [Tables Inside Back Cover](./papers/Traveller_2895_001.pdf)
 
 **8 bit Era 1984**
 
